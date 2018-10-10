@@ -1,5 +1,6 @@
 # Made during the 24 hour HowdyHack Hackathon.
 # Team Members - Shrey Shah, Pablo Say, Cameron Brock, Davis Kirchhofer
+# 2 emails - system_email and server_email are used. All IFTTT are from the system email account.
 
 from tkinter import *
 import tkinter.font
